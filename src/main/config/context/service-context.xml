@@ -43,7 +43,7 @@
 			<value>${trashcan.cleaner.protected.day}</value>
 		</property>
 		<property name="storeUrl">
-			<value>archive://SpacesStore</value>
+			<value>workspace://SpacesStore</value>
 		</property>
 	</bean>
 
